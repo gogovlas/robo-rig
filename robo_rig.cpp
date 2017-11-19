@@ -1,14 +1,14 @@
 /**************************************************
- *												  *
- * Animated Robot with OpenGL.			          *
- *												  *	
- *       by										  *
- *												  *
- * Vlasis Gogousis [vgogousis@gmail.com]		  *
+ *						  *
+ * Animated Robot with OpenGL.			  *
+ *					 	  *	
+ *       by					  *
+ *					 	  *
+ * Vlasis Gogousis [vgogousis@gmail.com]	  *
  * Kiki Hatzistavrou [kikihatzistavrou@gmail.com] *
- *												  *
+ *						  *
  * Aristotle University of Thessaloniki, 2014	  *
- *												  *
+ *						  *
  **************************************************/
 
 #include <math.h>
